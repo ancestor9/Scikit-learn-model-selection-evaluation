@@ -15,6 +15,7 @@
 -     Data transformation_Pipelines.ipynb :  데이터 전처리와 pipleine
       Threefold_split_cs&hyperparameter.ipynb : 2가지 데이터 Split 방법
       Preprocessing_inside_the_cv_loop.ipynb : 교차검증 후 데이터 전처리(pipleine)
+      imbalanced data.ipynb : Positive Class의 비중이 10% 미만인 경우 해결방안
 ---
 
 ## 2. 1단계: 식품안전 검사 데이터 기반 예측 모델 개발
