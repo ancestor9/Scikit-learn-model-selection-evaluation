@@ -11,8 +11,8 @@
   - 식품안전 검사 데이터: 식품 유형, 품목, 수거일, 검사 결과 등
   - 공간 정보: 지역, 위치 및 관측소 정보
   - 기후 데이터: 수거일 기준 과거 100일간의 평균·최고·최저기온 등
-- 사전 지식
--      Data transformation_Pipelines.ipynb :  데이터 전처리와 pipleine
+- 사전 지식 (머신러닝 핵심 지식)
+-     Data transformation_Pipelines.ipynb :  데이터 전처리와 pipleine
       Threefold_split_cs&hyperparameter.ipynb : 2가지 데이터 Split 방법
       Preprocessing_inside_the_cv_loop.ipynb : 교차검증 후 데이터 전처리(pipleine)
 ---
