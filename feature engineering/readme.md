@@ -1,0 +1,1 @@
+[Feature Engineering for Machine Learning](https://media.githubusercontent.com/media/kroegha/Books/refs/heads/master/ML-DL-BROAD/Feature%20Engineering%20for%20Machine%20Learning_%20Principles%20and%20Techniques%20for%20Data%20Scientists.pdf)
